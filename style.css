@@ -52,6 +52,7 @@ html {
 	width: 45px;
 	height: 45px;
 	border-radius: 50%;
-	background-color: #fff;
+	background: radial-gradient(#fffcfd, #161516);
 	margin: 2px; 
+	box-shadow: -7 -7 -7px rgba(176,172,173,0.9);
 }
